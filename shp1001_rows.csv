@@ -1,0 +1,101 @@
+transaction_id,transaction_date,transaction_time,transaction_qty,store_id,store_location,product_id,unit_price,product_category,product_type,product_detail
+1,1/11/2025,7:06:11,2,5,Lower Manhattan,32,3,Coffee,Gourmet brewed coffee,Ethiopia Rg
+2,1/15/2025,7:08:56,2,5,Lower Manhattan,57,3.1,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg
+3,1/3/2025,7:14:04,2,5,Lower Manhattan,59,4.5,Drinking Chocolate,Hot chocolate,Dark chocolate Lg
+4,5/4/2025,7:20:24,1,5,Lower Manhattan,22,2,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+5,9/5/2025,7:22:41,2,5,Lower Manhattan,57,3.1,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg
+6,1/1/2025,7:22:41,1,5,Lower Manhattan,77,3,Bakery,Scone,Oatmeal Scone
+7,1/1/2025,7:25:49,1,5,Lower Manhattan,22,2,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+8,1/8/2025,7:33:34,2,5,Lower Manhattan,28,2,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm
+9,11/8/2025,7:39:13,1,5,Lower Manhattan,39,4.25,Coffee,Barista Espresso,Latte Rg
+10,1/10/2025,7:39:34,2,5,Lower Manhattan,58,3.5,Drinking Chocolate,Hot chocolate,Dark chocolate Rg
+11,12/10/2025,7:43:05,1,5,Lower Manhattan,56,2.55,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg
+12,12/12/2025,7:44:35,2,5,Lower Manhattan,33,3.5,Coffee,Gourmet brewed coffee,Ethiopia Lg
+13,1/13/2025,7:45:51,1,5,Lower Manhattan,51,3,Tea,Brewed Black tea,Earl Grey Lg
+14,1/1/2025,7:48:19,1,5,Lower Manhattan,57,3.1,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg
+15,12/15/2025,7:52:36,2,5,Lower Manhattan,87,3,Coffee,Barista Espresso,Ouro Brasileiro shot
+16,11/16/2025,7:59:58,2,5,Lower Manhattan,47,3,Tea,Brewed Green tea,Serenity Green Tea Lg
+17,11/17/2025,7:59:58,1,5,Lower Manhattan,79,3.75,Bakery,Scone,Jumbo Savory Scone
+18,5/18/2025,8:00:18,1,8,Hell's Kitchen,42,2.5,Tea,Brewed herbal tea,Lemon Grass Rg
+19,1/19/2025,8:00:39,2,8,Hell's Kitchen,59,4.5,Drinking Chocolate,Hot chocolate,Dark chocolate Lg
+20,1/19/2025,8:11:45,1,8,Hell's Kitchen,61,4.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg
+21,1/19/2025,8:17:27,2,8,Hell's Kitchen,33,3.5,Coffee,Gourmet brewed coffee,Ethiopia Lg
+22,1/19/2025,8:24:26,2,5,Lower Manhattan,56,2.55,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg
+23,1/19/2025,8:24:26,1,5,Lower Manhattan,69,3.25,Bakery,Biscotti,Hazelnut Biscotti
+24,1/24/2025,8:29:38,1,8,Hell's Kitchen,56,2.55,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg
+25,7/25/2025,8:31:23,1,8,Hell's Kitchen,40,3.75,Coffee,Barista Espresso,Cappuccino
+26,4/16/2025,8:33:08,1,5,Lower Manhattan,43,3,Tea,Brewed herbal tea,Lemon Grass Lg
+27,4/16/2025,8:33:08,1,5,Lower Manhattan,76,3.5,Bakery,Biscotti,Chocolate Chip Biscotti
+28,4/16/2025,8:35:03,2,5,Lower Manhattan,45,3,Tea,Brewed herbal tea,Peppermint Lg
+29,4/16/2025,8:35:03,1,5,Lower Manhattan,71,3.75,Bakery,Pastry,Chocolate Croissant
+30,4/16/2025,8:41:57,2,8,Hell's Kitchen,40,3.75,Coffee,Barista Espresso,Cappuccino
+31,1/31/2025,8:52:03,1,8,Hell's Kitchen,38,3.75,Coffee,Barista Espresso,Latte
+32,1/31/2025,8:52:32,1,5,Lower Manhattan,26,3,Coffee,Organic brewed coffee,Brazilian Rg
+33,1/31/2025,8:54:33,2,5,Lower Manhattan,27,3.5,Coffee,Organic brewed coffee,Brazilian Lg
+34,1/31/2025,8:56:27,2,5,Lower Manhattan,29,2.5,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg
+35,1/31/2025,8:57:46,1,8,Hell's Kitchen,54,2.5,Tea,Brewed Chai tea,Morning Sunrise Chai Rg
+36,1/31/2025,8:58:55,1,5,Lower Manhattan,26,3,Coffee,Organic brewed coffee,Brazilian Rg
+37,1/31/2025,9:00:12,1,5,Lower Manhattan,55,4,Tea,Brewed Chai tea,Morning Sunrise Chai Lg
+38,1/31/2025,9:00:24,2,8,Hell's Kitchen,40,3.75,Coffee,Barista Espresso,Cappuccino
+39,10/17/2025,9:07:13,1,8,Hell's Kitchen,45,3,Tea,Brewed herbal tea,Peppermint Lg
+40,2/19/2025,9:08:09,2,8,Hell's Kitchen,45,3,Tea,Brewed herbal tea,Peppermint Lg
+41,2/10/2025,9:08:13,1,8,Hell's Kitchen,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg
+42,12/11/2025,9:10:30,2,5,Lower Manhattan,60,3.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg
+43,11/1/2025,9:10:30,1,5,Lower Manhattan,78,4.5,Bakery,Scone,Scottish Cream Scone 
+44,11/13/2025,9:11:06,1,5,Lower Manhattan,56,2.55,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg
+45,11/13/2025,9:11:06,1,5,Lower Manhattan,77,3,Bakery,Scone,Oatmeal Scone
+46,11/13/2025,9:13:01,1,5,Lower Manhattan,44,2.5,Tea,Brewed herbal tea,Peppermint Rg
+47,11/13/2025,9:13:15,2,5,Lower Manhattan,56,2.55,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg
+48,11/13/2025,9:14:16,1,5,Lower Manhattan,48,2.5,Tea,Brewed Black tea,English Breakfast Rg
+49,11/13/2025,9:14:17,1,8,Hell's Kitchen,23,2.5,Coffee,Drip coffee,Our Old Time Diner Blend Rg
+50,11/13/2025,9:14:25,1,8,Hell's Kitchen,46,2.5,Tea,Brewed Green tea,Serenity Green Tea Rg
+51,11/13/2025,9:14:41,1,8,Hell's Kitchen,32,3,Coffee,Gourmet brewed coffee,Ethiopia Rg
+52,11/13/2025,9:15:09,2,5,Lower Manhattan,47,3,Tea,Brewed Green tea,Serenity Green Tea Lg
+53,12/22/2025,9:15:13,2,5,Lower Manhattan,43,3,Tea,Brewed herbal tea,Lemon Grass Lg
+54,11/23/2025,9:19:21,2,5,Lower Manhattan,25,2.2,Coffee,Organic brewed coffee,Brazilian Sm
+55,4/24/2025,9:19:26,1,8,Hell's Kitchen,59,4.5,Drinking Chocolate,Hot chocolate,Dark chocolate Lg
+56,4/24/2025,9:21:08,1,5,Lower Manhattan,38,3.75,Coffee,Barista Espresso,Latte
+57,4/24/2025,9:22:17,1,8,Hell's Kitchen,45,3,Tea,Brewed herbal tea,Peppermint Lg
+58,4/24/2025,9:22:46,1,5,Lower Manhattan,34,2.45,Coffee,Premium brewed coffee,Jamaican Coffee River Sm
+59,4/24/2025,9:29:56,2,8,Hell's Kitchen,36,3.75,Coffee,Premium brewed coffee,Jamaican Coffee River Lg
+60,4/24/2025,9:29:56,1,8,Hell's Kitchen,74,3.5,Bakery,Biscotti,Ginger Biscotti
+61,4/24/2025,9:29:57,1,8,Hell's Kitchen,53,3,Tea,Brewed Chai tea,Traditional Blend Chai Lg
+62,4/24/2025,9:34:17,2,8,Hell's Kitchen,41,4.25,Coffee,Barista Espresso,Cappuccino Lg
+63,4/24/2025,9:40:13,1,5,Lower Manhattan,41,4.25,Coffee,Barista Espresso,Cappuccino Lg
+64,4/24/2025,9:41:22,2,5,Lower Manhattan,45,3,Tea,Brewed herbal tea,Peppermint Lg
+65,4/24/2025,9:41:22,1,5,Lower Manhattan,79,3.75,Bakery,Scone,Jumbo Savory Scone
+66,4/24/2025,9:44:20,2,5,Lower Manhattan,54,2.5,Tea,Brewed Chai tea,Morning Sunrise Chai Rg
+67,4/24/2025,9:44:46,1,5,Lower Manhattan,24,3,Coffee,Drip coffee,Our Old Time Diner Blend Lg
+68,4/24/2025,9:46:46,2,5,Lower Manhattan,37,3,Coffee,Barista Espresso,Espresso shot
+69,4/24/2025,9:47:40,2,8,Hell's Kitchen,40,3.75,Coffee,Barista Espresso,Cappuccino
+70,4/24/2025,9:50:44,2,5,Lower Manhattan,37,3,Coffee,Barista Espresso,Espresso shot
+71,8/12/2025,9:50:44,1,5,Lower Manhattan,69,3.25,Bakery,Biscotti,Hazelnut Biscotti
+72,8/12/2025,9:52:58,1,5,Lower Manhattan,50,2.5,Tea,Brewed Black tea,Earl Grey Rg
+73,8/12/2025,9:53:28,1,8,Hell's Kitchen,47,3,Tea,Brewed Green tea,Serenity Green Tea Lg
+74,8/12/2025,9:53:44,2,8,Hell's Kitchen,40,3.75,Coffee,Barista Espresso,Cappuccino
+75,8/12/2025,9:53:44,1,8,Hell's Kitchen,72,3.25,Bakery,Scone,Ginger Scone
+76,8/12/2025,9:53:49,1,8,Hell's Kitchen,35,3.1,Coffee,Premium brewed coffee,Jamaican Coffee River Rg
+77,8/13/2025,9:54:46,1,5,Lower Manhattan,23,2.5,Coffee,Drip coffee,Our Old Time Diner Blend Rg
+78,8/14/2025,9:55:16,2,5,Lower Manhattan,43,3,Tea,Brewed herbal tea,Lemon Grass Lg
+79,8/15/2025,9:56:30,1,8,Hell's Kitchen,22,2,Coffee,Drip coffee,Our Old Time Diner Blend Sm
+80,8/16/2025,10:00:39,2,8,Hell's Kitchen,32,3,Coffee,Gourmet brewed coffee,Ethiopia Rg
+81,8/17/2025,10:03:55,2,8,Hell's Kitchen,36,3.75,Coffee,Premium brewed coffee,Jamaican Coffee River Lg
+82,8/18/2025,10:14:49,1,5,Lower Manhattan,26,3,Coffee,Organic brewed coffee,Brazilian Rg
+83,8/19/2025,10:14:49,1,5,Lower Manhattan,71,3.75,Bakery,Pastry,Chocolate Croissant
+84,8/20/2025,10:16:30,2,5,Lower Manhattan,32,3,Coffee,Gourmet brewed coffee,Ethiopia Rg
+85,8/21/2025,10:16:33,1,8,Hell's Kitchen,54,2.5,Tea,Brewed Chai tea,Morning Sunrise Chai Rg
+86,8/22/2025,10:18:14,2,8,Hell's Kitchen,41,4.25,Coffee,Barista Espresso,Cappuccino Lg
+87,8/23/2025,10:18:52,2,5,Lower Manhattan,25,2.2,Coffee,Organic brewed coffee,Brazilian Sm
+88,8/24/2025,10:19:42,2,5,Lower Manhattan,23,2.5,Coffee,Drip coffee,Our Old Time Diner Blend Rg
+89,8/25/2025,10:24:19,1,8,Hell's Kitchen,54,2.5,Tea,Brewed Chai tea,Morning Sunrise Chai Rg
+90,8/26/2025,10:25:22,2,8,Hell's Kitchen,56,2.55,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg
+91,8/27/2025,10:25:45,2,5,Lower Manhattan,58,3.5,Drinking Chocolate,Hot chocolate,Dark chocolate Rg
+92,8/28/2025,10:25:45,1,5,Lower Manhattan,74,3.5,Bakery,Biscotti,Ginger Biscotti
+93,8/29/2025,10:27:48,2,8,Hell's Kitchen,47,3,Tea,Brewed Green tea,Serenity Green Tea Lg
+94,8/30/2025,10:30:07,1,5,Lower Manhattan,35,3.1,Coffee,Premium brewed coffee,Jamaican Coffee River Rg
+95,8/31/2025,10:30:07,1,5,Lower Manhattan,70,3.25,Bakery,Scone,Cranberry Scone
+96,9/1/2025,10:35:47,1,8,Hell's Kitchen,60,3.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg
+97,9/2/2025,10:41:53,1,5,Lower Manhattan,59,4.5,Drinking Chocolate,Hot chocolate,Dark chocolate Lg
+98,9/3/2025,10:47:53,2,5,Lower Manhattan,36,3.75,Coffee,Premium brewed coffee,Jamaican Coffee River Lg
+99,9/4/2025,10:49:13,2,8,Hell's Kitchen,51,3,Tea,Brewed Black tea,Earl Grey Lg
+100,9/5/2025,10:49:51,2,5,Lower Manhattan,61,4.75,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg
